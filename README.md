@@ -5,10 +5,8 @@ Python and C++.
 
 ## 📊 Progress
 
-| Language | Problems |
-|---|---:|
-| 🐍 Python | 63+ |
-| ⚡ C++ | 1+ |
+<!-- LEETCODE-STATS:START -->
+<!-- LEETCODE-STATS:END -->
 
 ## 💻 Languages
 
