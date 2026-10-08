@@ -12,12 +12,12 @@
 
 | Metric | Count |
 | :--- | :--- |
-| 🎯 **Total Unique Problems Solved** | **42** |
+| 🎯 **Total Unique Problems Solved** | **59** |
 | ⚡ **C++ Solutions** | **42** |
-| 🐍 **Python Solutions** | **33** |
+| 🐍 **Python Solutions** | **50** |
 | 🔄 **Solved in Both (C++ & Python)** | **33** |
 | 🔷 **C++ Only** | **9** |
-| 🟨 **Python Only** | **0** |
+| 🟨 **Python Only** | **17** |
 
 ### 📚 Problem Directory
 
@@ -59,6 +59,23 @@
 | 31 | **Next Permutation** | [C++](0031-Next-Permutation/solution.cpp) \| [Python](0031-Next-Permutation/solution.py) |
 | 32 | **Longest Valid Parentheses** | [C++](0032-Longest-Valid-Parentheses/solution.cpp) \| [Python](0032-Longest-Valid-Parentheses/solution.py) |
 | 33 | **Search in Rotated Sorted Array** | [C++](0033-Search-in-Rotated-Sorted-Array/solution.cpp) \| [Python](0033-Search-in-Rotated-Sorted-Array/solution.py) |
+| 34 | **Find First and Last Position of Element in Sorted Array** | [Python](0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/solution.py) |
+| 35 | **Search Insert Position** | [Python](0035-Search-Insert-Position/solution.py) |
+| 36 | **Valid Sudoku** | [Python](0036-Valid-Sudoku/solution.py) |
+| 37 | **Sudoku Solver** | [Python](0037-Sudoku-Solver/solution.py) |
+| 38 | **Count and Say** | [Python](0038-Count-and-Say/solution.py) |
+| 39 | **Combination Sum** | [Python](0039-Combination-Sum/solution.py) |
+| 40 | **Combination Sum II** | [Python](0040-Combination-Sum-II/solution.py) |
+| 41 | **First Missing Positive** | [Python](0041-First-Missing-Positive/solution.py) |
+| 42 | **Trapping Rain Water** | [Python](0042-Trapping-Rain-Water/solution.py) |
+| 43 | **Multiply Strings** | [Python](0043-Multiply-Strings/solution.py) |
+| 44 | **Wildcard Matching** | [Python](0044-Wildcard-Matching/solution.py) |
+| 45 | **Jump Game II** | [Python](0045-Jump-Game-II/solution.py) |
+| 46 | **Permutations** | [Python](0046-Permutations/solution.py) |
+| 47 | **Permutations II** | [Python](0047-Permutations-II/solution.py) |
+| 48 | **Rotate Image** | [Python](0048-Rotate-Image/solution.py) |
+| 49 | **Group Anagrams** | [Python](0049-Group-Anagrams/solution.py) |
+| 50 | **Pow(x, n)** | [Python](0050-Pow(x, n)/solution.py) |
 | 301 | **Remove Invalid Parentheses** | [C++](0301-Remove-Invalid-Parentheses/solution.cpp) |
 | 678 | **Valid Parenthesis String** | [C++](0678-Valid-Parenthesis-String/solution.cpp) |
 | 856 | **Score of Parentheses** | [C++](0856-Score-of-Parentheses/solution.cpp) |
