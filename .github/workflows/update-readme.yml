@@ -7,41 +7,10 @@ on:
 
   workflow_dispatch:
 
-permissions:
-  contents: write
-  actions: read
-
 jobs:
-  update-readme:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-
-      - name: Generate README
-        run: python scripts/generate_readme.py
-
-      - name: Check for README changes
-        id: changes
-        run: |
-          if git diff --quiet README.md; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Commit README changes
-        if: steps.changes.outputs.changed == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add README.md
-          git commit -m "docs: update LeetCode progress"
-          git push
+      - name: Test workflow
+        run: echo "Update README workflow is working!"
