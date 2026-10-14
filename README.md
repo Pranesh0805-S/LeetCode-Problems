@@ -12,11 +12,11 @@
 
 | Metric | Count |
 | :--- | :--- |
-| 🎯 **Total Unique Problems Solved** | **61** |
-| ⚡ **C++ Solutions** | **61** |
+| 🎯 **Total Unique Problems Solved** | **65** |
+| ⚡ **C++ Solutions** | **65** |
 | 🐍 **Python Solutions** | **50** |
 | 🔄 **Solved in Both (C++ & Python)** | **50** |
-| 🔷 **C++ Only** | **11** |
+| 🔷 **C++ Only** | **15** |
 | 🟨 **Python Only** | **0** |
 
 ### 📚 Problem Directory
@@ -87,6 +87,10 @@
 | 1614 | **Maximum Nesting Depth of the Parentheses** | [C++](1614-Maximum-Nesting-Depth-of-the-Parentheses/solution.cpp) |
 | 2267 | **Check if There Is a Valid Parentheses String Path** | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) |
 | 2333 | **Minimum Sum of Squared Difference** | [C++](2333-Minimum-Sum-of-Squared-Difference/solution.cpp) |
+| 2778 | **Sum of Squares of Special Elements** | [C++](2778-Sum-of-Squares-of-Special-Elements/solution.cpp) |
+| 2897 | **Apply Operations on Array to Maximize Sum of Squares** | [C++](2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares/solution.cpp) |
+| 3723 | **Maximize Sum of Squares of Digits** | [C++](3723-Maximize-Sum-of-Squares-of-Digits/solution.cpp) |
+| 3727 | **Maximum Alternating Sum of Squares** | [C++](3727-Maximum-Alternating-Sum-of-Squares/solution.cpp) |
 
 </details>
 
