@@ -3,13 +3,12 @@ name: Update LeetCode Progress
 on:
   workflow_dispatch:
   schedule:
-    # 6:00 AM IST every day (00:30 UTC)
     - cron: '30 0 * * *'
   push:
     branches:
       - main
       - master
-      - 'CPP-(C++)'
+      - "CPP-(C++)"
     paths:
       - '[0-9]*/**'
       - 'scripts/**'
@@ -25,7 +24,6 @@ jobs:
       - name: Checkout Repository with Full History
         uses: actions/checkout@v4
         with:
-          # fetch-depth: 0 is required for git log commit dates to work
           fetch-depth: 0
 
       - name: Set up Python
