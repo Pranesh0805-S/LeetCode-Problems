@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/pranesh0805-s/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/Pranesh0805?theme=dark&font=baloo&ext=activity" alt="LeetCode Profile Card" width="520" />
+    <img src="https://leetcard.jacoblin.cool/pranesh0805-s?theme=dark&font=baloo&ext=activity" alt="LeetCode Profile Card" width="520" />
   </a>
 </p>
 
