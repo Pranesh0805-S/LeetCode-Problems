@@ -1,32 +1,83 @@
 #!/usr/bin/env python3
 """
-Scans LeetCode problem directories, parses solution headers and git commit dates,
-and updates README.md between sentinel markers with an interactive dashboard.
+Scans LeetCode problem directories, automatically queries LeetCode API for difficulty,
+caches results in .cache/difficulties.json, and updates README.md.
 """
 
 from collections import defaultdict
 from datetime import datetime, timezone, timedelta
+import json
 from pathlib import Path
 import re
 import subprocess
 import sys
+import urllib.request
 
 START_MARKER = "<!-- LEETCODE-STATS:START -->"
 END_MARKER = "<!-- LEETCODE-STATS:END -->"
 
 FOLDER_PATTERN = re.compile(r"^(\d+)-(.+)$")
-DIFFICULTY_PATTERN = re.compile(r"Difficulty:\s*(Easy|Medium|Hard)", re.IGNORECASE)
-
-# IST: UTC + 5:30
 IST = timezone(timedelta(hours=5, minutes=30))
-
-# Replace with your public LeetCode handle
-LEETCODE_USERNAME = "pranesh0805-s"
+LEETCODE_USERNAME = "Pranesh0805"
 MILESTONE_TARGET = 100
+
+CACHE_FILE = Path(__file__).resolve().parent / "difficulty_cache.json"
+
+
+def load_cache() -> dict:
+    if CACHE_FILE.exists():
+        try:
+            return json.loads(CACHE_FILE.read_text(encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
+
+
+def save_cache(cache: dict):
+    try:
+        CACHE_FILE.write_text(json.dumps(cache, indent=2), encoding="utf-8")
+    except Exception:
+        pass
+
+
+def fetch_leetcode_difficulty(slug: str, cache: dict) -> str:
+    """Fetches difficulty from LeetCode GraphQL API or retrieves from local cache."""
+    clean_slug = slug.lower().strip()
+    if clean_slug in cache:
+        return cache[clean_slug]
+
+    url = "https://leetcode.com/graphql"
+    query = """
+    query getQuestionDetail($titleSlug: String!) {
+      question(titleSlug: $titleSlug) {
+        difficulty
+      }
+    }
+    """
+    payload = json.dumps({"query": query, "variables": {"titleSlug": clean_slug}}).encode("utf-8")
+    req = urllib.request.Request(
+        url,
+        data=payload,
+        headers={
+            "Content-Type": "application/json",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        }
+    )
+
+    try:
+        with urllib.request.urlopen(req, timeout=5) as response:
+            data = json.loads(response.read().decode("utf-8"))
+            diff = data.get("data", {}).get("question", {}).get("difficulty")
+            if diff:
+                cache[clean_slug] = diff
+                return diff
+    except Exception:
+        pass
+
+    return "Unrated"
 
 
 def get_first_commit_date(repo_dir: Path, folder_name: str) -> str:
-    """Gets the date (YYYY-MM-DD in IST) when the problem folder was first committed."""
     try:
         cmd = ["git", "log", "--reverse", "--format=%ct", "--", folder_name]
         result = subprocess.run(
@@ -42,19 +93,6 @@ def get_first_commit_date(repo_dir: Path, folder_name: str) -> str:
     return datetime.now(IST).strftime("%Y-%m-%d")
 
 
-def extract_difficulty(file_paths: list[Path]) -> str:
-    """Parses difficulty from comments/docstrings in solution files."""
-    for path in file_paths:
-        try:
-            content = path.read_text(encoding="utf-8", errors="ignore")
-            match = DIFFICULTY_PATTERN.search(content)
-            if match:
-                return match.group(1).capitalize()
-        except Exception:
-            continue
-    return "Unrated"
-
-
 def format_difficulty_badge(difficulty: str) -> str:
     colors = {
         "Easy": "00b8a3",
@@ -68,6 +106,7 @@ def format_difficulty_badge(difficulty: str) -> str:
 
 def parse_repository(root_dir: Path):
     problems = []
+    cache = load_cache()
 
     for entry in root_dir.iterdir():
         if not entry.is_dir():
@@ -91,7 +130,9 @@ def parse_repository(root_dir: Path):
         if not has_cpp and not has_py:
             continue
 
-        difficulty = extract_difficulty(cpp_files + py_files)
+        # Automatically fetches from LeetCode or cache
+        difficulty = fetch_leetcode_difficulty(slug, cache)
+
         cpp_rel_path = cpp_files[0].relative_to(root_dir).as_posix() if has_cpp else None
         py_rel_path = py_files[0].relative_to(root_dir).as_posix() if has_py else None
         date_solved = get_first_commit_date(root_dir, entry.name)
@@ -111,6 +152,7 @@ def parse_repository(root_dir: Path):
             "date_solved": date_solved,
         })
 
+    save_cache(cache)
     return problems
 
 
@@ -128,7 +170,6 @@ def build_markdown_stats(problems: list) -> str:
 
     pct = min(100, int((total_solved / MILESTONE_TARGET) * 100)) if MILESTONE_TARGET else 0
 
-    # Group by commit date
     by_date = defaultdict(list)
     for p in problems:
         by_date[p["date_solved"]].append(p)
@@ -172,7 +213,6 @@ def build_markdown_stats(problems: list) -> str:
         "",
     ]
 
-    # Daily Timeline
     for date_str in sorted_dates:
         if date_str == today_ist:
             label = f"🔥 Today ({date_str}) — {len(by_date[date_str])} solved"
@@ -204,7 +244,6 @@ def build_markdown_stats(problems: list) -> str:
 
         lines.extend(["", "</details>", ""])
 
-    # Difficulty Accordions
     for section_title, tag, problem_list in [
         ("🟢 Easy Problems", "easy-problems", easy_problems),
         ("🟡 Medium Problems", "medium-problems", medium_problems),
@@ -230,7 +269,6 @@ def build_markdown_stats(problems: list) -> str:
             lines.append(f"| {p['number']} | [{p['title']}]({p['url']}) | {links} | {p['date_solved']} |")
         lines.extend(["", "</details>", ""])
 
-    # Full Master Index
     lines.extend([
         "---",
         "",
@@ -287,7 +325,7 @@ def update_readme(readme_path: Path, stats_markdown: str):
         return False
 
     readme_path.write_text(new_content, encoding="utf-8")
-    print("README.md updated successfully with interactive metrics.")
+    print("README.md updated successfully with difficulties.")
     return True
 
 
