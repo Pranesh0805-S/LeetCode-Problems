@@ -11,17 +11,17 @@
 ### 🎮 Dashboard & Quick Navigation
 
 <p align="center">
-  <a href="https://leetcode.com/u/pranesh0805-s/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/pranesh0805-s?theme=dark&font=baloo&ext=activity" alt="LeetCode Profile Card" width="520" />
+  <a href="https://leetcode.com/u/Pranesh0805/" target="_blank" rel="noopener noreferrer">
+    <img src="https://leetcard.jacoblin.cool/Pranesh0805?theme=dark&font=baloo&ext=activity" alt="LeetCode Profile Card" width="520" />
   </a>
 </p>
 
-> **Milestone Target (68/100):**
-> <progress value="68" max="100" style="width: 100%; height: 16px;"></progress> `68% Completed`
+> **Milestone Target (69/100):**
+> <progress value="69" max="100" style="width: 100%; height: 16px;"></progress> `69% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (14)](#-easy-problems) • [🟡 Medium (38)](#-medium-problems) • [🔴 Hard (14)](#-hard-problems) | [🔷 C++ (68)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (14)](#-easy-problems) • [🟡 Medium (38)](#-medium-problems) • [🔴 Hard (15)](#-hard-problems) | [🔷 C++ (69)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
@@ -29,8 +29,8 @@
 | :--- | :---: | :--- |
 | **Easy** | `14` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
 | **Medium** | `38` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
-| **Hard** | `14` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `68` | `⚡ Modern C++` |
+| **Hard** | `15` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
+| **C++ Solutions** | `69` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-10-17) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-10-18) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#1569` | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-10-17) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-10-16) — 1 solved</b></summary>
+<summary><b>📌 2026-10-16 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -336,7 +345,7 @@
 
 ### 🔴 Hard Problems
 <details>
-<summary><b>View 🔴 Hard Problems (14)</b></summary>
+<summary><b>View 🔴 Hard Problems (15)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -351,6 +360,7 @@
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](0042-Trapping-Rain-Water/solution.cpp) \| [Python](0042-Trapping-Rain-Water/solution.py) | 2026-10-08 |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [C++](0044-Wildcard-Matching/solution.cpp) \| [Python](0044-Wildcard-Matching/solution.py) | 2026-10-08 |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](0301-Remove-Invalid-Parentheses/solution.cpp) | 2026-10-07 |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [C++](1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST/solution.cpp) | 2026-10-18 |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) | 2026-09-29 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [C++](2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares/solution.cpp) | 2026-10-12 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | [C++](2916-Subarrays-Distinct-Element-Sum-of-Squares-II/solution.cpp) | 2026-10-16 |
@@ -424,6 +434,7 @@
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/solution.cpp) | 2026-09-30 |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/solution.cpp) | 2026-09-27 |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1541-Minimum-Insertions-to-Balance-a-Parentheses-String/solution.cpp) | 2026-10-09 |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST/solution.cpp) | 2026-10-18 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](1614-Maximum-Nesting-Depth-of-the-Parentheses/solution.cpp) | 2026-09-28 |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) | 2026-09-29 |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2333-Minimum-Sum-of-Squared-Difference/solution.cpp) | 2026-10-10 |
