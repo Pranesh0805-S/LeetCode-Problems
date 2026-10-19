@@ -65,5 +65,6 @@
   "combination-sum-ii": "Medium",
   "maximum-nesting-depth-of-the-parentheses": "Easy",
   "substring-with-concatenation-of-all-words": "Hard",
-  "find-the-index-of-the-first-occurrence-in-a-string": "Easy"
+  "find-the-index-of-the-first-occurrence-in-a-string": "Easy",
+  "find-target-indices-after-sorting-array": "Easy"
 }
