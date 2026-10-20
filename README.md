@@ -11,17 +11,17 @@
 ### 🎮 Dashboard & Quick Navigation
 
 <p align="center">
-  <a href="https://leetcode.com/u/pranesh0805-s/" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/u/Pranesh0805/" target="_blank" rel="noopener noreferrer">
     <img src="https://leetcard.jacoblin.cool/Pranesh0805?theme=dark&font=baloo&ext=activity" alt="LeetCode Profile Card" width="520" />
   </a>
 </p>
 
-> **Milestone Target (70/100):**
-> <progress value="70" max="100" style="width: 100%; height: 16px;"></progress> `70% Completed`
+> **Milestone Target (71/100):**
+> <progress value="71" max="100" style="width: 100%; height: 16px;"></progress> `71% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (15)](#-easy-problems) • [🟡 Medium (38)](#-medium-problems) • [🔴 Hard (15)](#-hard-problems) | [🔷 C++ (70)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (15)](#-easy-problems) • [🟡 Medium (38)](#-medium-problems) • [🔴 Hard (16)](#-hard-problems) | [🔷 C++ (71)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
@@ -29,8 +29,8 @@
 | :--- | :---: | :--- |
 | **Easy** | `15` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
 | **Medium** | `38` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
-| **Hard** | `15` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `70` | `⚡ Modern C++` |
+| **Hard** | `16` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
+| **C++ Solutions** | `71` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-10-19) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-10-20) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#3886` | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3886-Sum-of-Sortable-Integers/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-10-19) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-10-18) — 1 solved</b></summary>
+<summary><b>📌 2026-10-18 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -355,7 +364,7 @@
 
 ### 🔴 Hard Problems
 <details>
-<summary><b>View 🔴 Hard Problems (15)</b></summary>
+<summary><b>View 🔴 Hard Problems (16)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -374,6 +383,7 @@
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) | 2026-09-29 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [C++](2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares/solution.cpp) | 2026-10-12 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | [C++](2916-Subarrays-Distinct-Element-Sum-of-Squares-II/solution.cpp) | 2026-10-16 |
+| 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | [C++](3886-Sum-of-Sortable-Integers/solution.cpp) | 2026-10-20 |
 
 </details>
 
@@ -456,6 +466,7 @@
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3551-Minimum-Swaps-to-Sort-by-Digit-Sum/solution.cpp) | 2026-10-17 |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3723-Maximize-Sum-of-Squares-of-Digits/solution.cpp) | 2026-10-14 |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3727-Maximum-Alternating-Sum-of-Squares/solution.cpp) | 2026-10-13 |
+| 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3886-Sum-of-Sortable-Integers/solution.cpp) | 2026-10-20 |
 
 </details>
 
