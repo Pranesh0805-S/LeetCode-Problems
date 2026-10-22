@@ -68,5 +68,6 @@
   "find-the-index-of-the-first-occurrence-in-a-string": "Easy",
   "find-target-indices-after-sorting-array": "Easy",
   "sum-of-sortable-integers": "Hard",
-  "minimum-operations-to-sort-a-string": "Medium"
+  "minimum-operations-to-sort-a-string": "Medium",
+  "minimum-operations-to-sort-a-permutation": "Medium"
 }
