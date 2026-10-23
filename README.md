@@ -16,21 +16,21 @@
   </a>
 </p>
 
-> **Milestone Target (73/100):**
-> <progress value="73" max="100" style="width: 100%; height: 16px;"></progress> `73% Completed`
+> **Milestone Target (74/100):**
+> <progress value="74" max="100" style="width: 100%; height: 16px;"></progress> `74% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (15)](#-easy-problems) • [🟡 Medium (40)](#-medium-problems) • [🔴 Hard (16)](#-hard-problems) | [🔷 C++ (73)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (15)](#-easy-problems) • [🟡 Medium (41)](#-medium-problems) • [🔴 Hard (16)](#-hard-problems) | [🔷 C++ (74)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
 | Category | Count | Status Badge |
 | :--- | :---: | :--- |
 | **Easy** | `15` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
-| **Medium** | `40` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
+| **Medium** | `41` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `16` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `73` | `⚡ Modern C++` |
+| **C++ Solutions** | `74` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-10-22) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-10-23) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#3644` | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3644-Maximum-K-to-Sort-a-Permutation/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-10-22) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-10-21) — 1 solved</b></summary>
+<summary><b>📌 2026-10-21 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -333,7 +342,7 @@
 
 ### 🟡 Medium Problems
 <details>
-<summary><b>View 🟡 Medium Problems (40)</b></summary>
+<summary><b>View 🟡 Medium Problems (41)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -373,6 +382,7 @@
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [C++](1541-Minimum-Insertions-to-Balance-a-Parentheses-String/solution.cpp) | 2026-10-09 |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [C++](2333-Minimum-Sum-of-Squared-Difference/solution.cpp) | 2026-10-10 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [C++](3551-Minimum-Swaps-to-Sort-by-Digit-Sum/solution.cpp) | 2026-10-17 |
+| 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [C++](3644-Maximum-K-to-Sort-a-Permutation/solution.cpp) | 2026-10-23 |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [C++](3723-Maximize-Sum-of-Squares-of-Digits/solution.cpp) | 2026-10-14 |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [C++](3727-Maximum-Alternating-Sum-of-Squares/solution.cpp) | 2026-10-13 |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [C++](3863-Minimum-Operations-to-Sort-a-String/solution.cpp) | 2026-10-21 |
@@ -484,6 +494,7 @@
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2913-Subarrays-Distinct-Element-Sum-of-Squares-I/solution.cpp) | 2026-10-15 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2916-Subarrays-Distinct-Element-Sum-of-Squares-II/solution.cpp) | 2026-10-16 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3551-Minimum-Swaps-to-Sort-by-Digit-Sum/solution.cpp) | 2026-10-17 |
+| 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3644-Maximum-K-to-Sort-a-Permutation/solution.cpp) | 2026-10-23 |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3723-Maximize-Sum-of-Squares-of-Digits/solution.cpp) | 2026-10-14 |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3727-Maximum-Alternating-Sum-of-Squares/solution.cpp) | 2026-10-13 |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3863-Minimum-Operations-to-Sort-a-String/solution.cpp) | 2026-10-21 |

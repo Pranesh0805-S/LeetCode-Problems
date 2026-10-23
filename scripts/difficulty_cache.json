@@ -69,5 +69,6 @@
   "find-target-indices-after-sorting-array": "Easy",
   "sum-of-sortable-integers": "Hard",
   "minimum-operations-to-sort-a-string": "Medium",
-  "minimum-operations-to-sort-a-permutation": "Medium"
+  "minimum-operations-to-sort-a-permutation": "Medium",
+  "maximum-k-to-sort-a-permutation": "Medium"
 }
