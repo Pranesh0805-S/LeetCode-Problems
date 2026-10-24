@@ -16,21 +16,21 @@
   </a>
 </p>
 
-> **Milestone Target (74/100):**
-> <progress value="74" max="100" style="width: 100%; height: 16px;"></progress> `74% Completed`
+> **Milestone Target (75/100):**
+> <progress value="75" max="100" style="width: 100%; height: 16px;"></progress> `75% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (15)](#-easy-problems) • [🟡 Medium (41)](#-medium-problems) • [🔴 Hard (16)](#-hard-problems) | [🔷 C++ (74)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (16)](#-easy-problems) • [🟡 Medium (41)](#-medium-problems) • [🔴 Hard (16)](#-hard-problems) | [🔷 C++ (75)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
 | Category | Count | Status Badge |
 | :--- | :---: | :--- |
-| **Easy** | `15` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
+| **Easy** | `16` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
 | **Medium** | `41` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `16` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `74` | `⚡ Modern C++` |
+| **C++ Solutions** | `75` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-10-23) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-10-24) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#2409` | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2409-Count-Days-Spent-Together/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-10-23) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-10-22) — 1 solved</b></summary>
+<summary><b>📌 2026-10-22 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -316,7 +325,7 @@
 
 ### 🟢 Easy Problems
 <details>
-<summary><b>View 🟢 Easy Problems (15)</b></summary>
+<summary><b>View 🟢 Easy Problems (16)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -333,6 +342,7 @@
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [C++](1021-Remove-Outermost-Parentheses/solution.cpp) | 2026-10-08 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [C++](1614-Maximum-Nesting-Depth-of-the-Parentheses/solution.cpp) | 2026-09-28 |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [C++](2089-Find-Target-Indices-After-Sorting-Array/solution.cpp) | 2026-10-19 |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [C++](2409-Count-Days-Spent-Together/solution.cpp) | 2026-10-24 |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [C++](2778-Sum-of-Squares-of-Special-Elements/solution.cpp) | 2026-10-11 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [C++](2913-Subarrays-Distinct-Element-Sum-of-Squares-I/solution.cpp) | 2026-10-15 |
 
@@ -489,6 +499,7 @@
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2089-Find-Target-Indices-After-Sorting-Array/solution.cpp) | 2026-10-19 |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) | 2026-09-29 |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2333-Minimum-Sum-of-Squared-Difference/solution.cpp) | 2026-10-10 |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2409-Count-Days-Spent-Together/solution.cpp) | 2026-10-24 |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2778-Sum-of-Squares-of-Special-Elements/solution.cpp) | 2026-10-11 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares/solution.cpp) | 2026-10-12 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2913-Subarrays-Distinct-Element-Sum-of-Squares-I/solution.cpp) | 2026-10-15 |
