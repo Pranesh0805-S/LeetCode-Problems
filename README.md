@@ -16,21 +16,21 @@
   </a>
 </p>
 
-> **Milestone Target (75/100):**
-> <progress value="75" max="100" style="width: 100%; height: 16px;"></progress> `75% Completed`
+> **Milestone Target (76/100):**
+> <progress value="76" max="100" style="width: 100%; height: 16px;"></progress> `76% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (16)](#-easy-problems) • [🟡 Medium (41)](#-medium-problems) • [🔴 Hard (16)](#-hard-problems) | [🔷 C++ (75)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (16)](#-easy-problems) • [🟡 Medium (42)](#-medium-problems) • [🔴 Hard (16)](#-hard-problems) | [🔷 C++ (76)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
 | Category | Count | Status Badge |
 | :--- | :---: | :--- |
 | **Easy** | `16` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
-| **Medium** | `41` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
+| **Medium** | `42` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `16` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `75` | `⚡ Modern C++` |
+| **C++ Solutions** | `76` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-10-24) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-10-25) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#1254` | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1254-Number-of-Closed-Islands/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-10-24) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-10-23) — 1 solved</b></summary>
+<summary><b>📌 2026-10-23 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -352,7 +361,7 @@
 
 ### 🟡 Medium Problems
 <details>
-<summary><b>View 🟡 Medium Problems (41)</b></summary>
+<summary><b>View 🟡 Medium Problems (42)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -389,6 +398,7 @@
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [C++](0921-Minimum-Add-to-Make-Parentheses-Valid/solution.cpp) | 2026-10-08 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [C++](1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/solution.cpp) | 2026-09-30 |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [C++](1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/solution.cpp) | 2026-09-27 |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [C++](1254-Number-of-Closed-Islands/solution.cpp) | 2026-10-25 |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [C++](1541-Minimum-Insertions-to-Balance-a-Parentheses-String/solution.cpp) | 2026-10-09 |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [C++](2333-Minimum-Sum-of-Squared-Difference/solution.cpp) | 2026-10-10 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [C++](3551-Minimum-Swaps-to-Sort-by-Digit-Sum/solution.cpp) | 2026-10-17 |
@@ -493,6 +503,7 @@
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](1021-Remove-Outermost-Parentheses/solution.cpp) | 2026-10-08 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/solution.cpp) | 2026-09-30 |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/solution.cpp) | 2026-09-27 |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1254-Number-of-Closed-Islands/solution.cpp) | 2026-10-25 |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1541-Minimum-Insertions-to-Balance-a-Parentheses-String/solution.cpp) | 2026-10-09 |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST/solution.cpp) | 2026-10-18 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](1614-Maximum-Nesting-Depth-of-the-Parentheses/solution.cpp) | 2026-09-28 |
