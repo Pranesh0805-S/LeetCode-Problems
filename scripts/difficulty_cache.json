@@ -72,5 +72,6 @@
   "minimum-operations-to-sort-a-permutation": "Medium",
   "maximum-k-to-sort-a-permutation": "Medium",
   "count-days-spent-together": "Easy",
-  "number-of-closed-islands": "Medium"
+  "number-of-closed-islands": "Medium",
+  "count-islands-with-total-value-divisible-by-k": "Medium"
 }
