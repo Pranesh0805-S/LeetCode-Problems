@@ -73,5 +73,6 @@
   "maximum-k-to-sort-a-permutation": "Medium",
   "count-days-spent-together": "Easy",
   "number-of-closed-islands": "Medium",
-  "count-islands-with-total-value-divisible-by-k": "Medium"
+  "count-islands-with-total-value-divisible-by-k": "Medium",
+  "create-grid-with-exactly-one-path": "Easy"
 }
