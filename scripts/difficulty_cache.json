@@ -74,5 +74,6 @@
   "count-days-spent-together": "Easy",
   "number-of-closed-islands": "Medium",
   "count-islands-with-total-value-divisible-by-k": "Medium",
-  "create-grid-with-exactly-one-path": "Easy"
+  "create-grid-with-exactly-one-path": "Easy",
+  "minimum-xor-path-in-a-grid": "Medium"
 }
