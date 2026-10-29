@@ -16,12 +16,12 @@
   </a>
 </p>
 
-> **Milestone Target (79/100):**
-> <progress value="79" max="100" style="width: 100%; height: 16px;"></progress> `79% Completed`
+> **Milestone Target (80/100):**
+> <progress value="80" max="100" style="width: 100%; height: 16px;"></progress> `80% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (17)](#-easy-problems) • [🟡 Medium (44)](#-medium-problems) • [🔴 Hard (16)](#-hard-problems) | [🔷 C++ (79)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (17)](#-easy-problems) • [🟡 Medium (44)](#-medium-problems) • [🔴 Hard (17)](#-hard-problems) | [🔷 C++ (80)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
@@ -29,8 +29,8 @@
 | :--- | :---: | :--- |
 | **Easy** | `17` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
 | **Medium** | `44` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
-| **Hard** | `16` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `79` | `⚡ Modern C++` |
+| **Hard** | `17` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
+| **C++ Solutions** | `80` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-10-28) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-10-29) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#3841` | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3841-Palindromic-Path-Queries-in-a-Tree/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-10-28) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-10-27) — 1 solved</b></summary>
+<summary><b>📌 2026-10-27 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -444,7 +453,7 @@
 
 ### 🔴 Hard Problems
 <details>
-<summary><b>View 🔴 Hard Problems (16)</b></summary>
+<summary><b>View 🔴 Hard Problems (17)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -463,6 +472,7 @@
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) | 2026-09-29 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [C++](2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares/solution.cpp) | 2026-10-12 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | [C++](2916-Subarrays-Distinct-Element-Sum-of-Squares-II/solution.cpp) | 2026-10-16 |
+| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [C++](3841-Palindromic-Path-Queries-in-a-Tree/solution.cpp) | 2026-10-29 |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | [C++](3886-Sum-of-Sortable-Integers/solution.cpp) | 2026-10-20 |
 
 </details>
@@ -550,6 +560,7 @@
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3644-Maximum-K-to-Sort-a-Permutation/solution.cpp) | 2026-10-23 |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3723-Maximize-Sum-of-Squares-of-Digits/solution.cpp) | 2026-10-14 |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3727-Maximum-Alternating-Sum-of-Squares/solution.cpp) | 2026-10-13 |
+| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3841-Palindromic-Path-Queries-in-a-Tree/solution.cpp) | 2026-10-29 |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3863-Minimum-Operations-to-Sort-a-String/solution.cpp) | 2026-10-21 |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3882-Minimum-XOR-Path-in-a-Grid/solution.cpp) | 2026-10-28 |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3886-Sum-of-Sortable-Integers/solution.cpp) | 2026-10-20 |
