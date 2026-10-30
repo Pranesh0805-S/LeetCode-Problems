@@ -76,5 +76,6 @@
   "count-islands-with-total-value-divisible-by-k": "Medium",
   "create-grid-with-exactly-one-path": "Easy",
   "minimum-xor-path-in-a-grid": "Medium",
-  "palindromic-path-queries-in-a-tree": "Hard"
+  "palindromic-path-queries-in-a-tree": "Hard",
+  "shortest-path-with-at-most-k-consecutive-identical-characters": "Medium"
 }
