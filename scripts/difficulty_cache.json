@@ -78,5 +78,6 @@
   "minimum-xor-path-in-a-grid": "Medium",
   "palindromic-path-queries-in-a-tree": "Hard",
   "shortest-path-with-at-most-k-consecutive-identical-characters": "Medium",
-  "twisted-mirror-path-count": "Medium"
+  "twisted-mirror-path-count": "Medium",
+  "n-queens": "Hard"
 }

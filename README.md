@@ -16,12 +16,12 @@
   </a>
 </p>
 
-> **Milestone Target (82/100):**
-> <progress value="82" max="100" style="width: 100%; height: 16px;"></progress> `82% Completed`
+> **Milestone Target (83/100):**
+> <progress value="83" max="100" style="width: 100%; height: 16px;"></progress> `83% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (17)](#-easy-problems) • [🟡 Medium (46)](#-medium-problems) • [🔴 Hard (17)](#-hard-problems) | [🔷 C++ (82)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (17)](#-easy-problems) • [🟡 Medium (46)](#-medium-problems) • [🔴 Hard (18)](#-hard-problems) | [🔷 C++ (83)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
@@ -29,8 +29,8 @@
 | :--- | :---: | :--- |
 | **Easy** | `17` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
 | **Medium** | `46` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
-| **Hard** | `17` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `82` | `⚡ Modern C++` |
+| **Hard** | `18` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
+| **C++ Solutions** | `83` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,11 +39,12 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-10-31) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-10-31) — 2 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
 | `#3665` | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3665-Twisted-Mirror-Path-Count/solution.cpp) |
+| `#51` | [N Queens](https://leetcode.com/problems/n-queens/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](51-N-Queens/solution.cpp) |
 
 </details>
 
@@ -473,7 +474,7 @@
 
 ### 🔴 Hard Problems
 <details>
-<summary><b>View 🔴 Hard Problems (17)</b></summary>
+<summary><b>View 🔴 Hard Problems (18)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -487,6 +488,7 @@
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](0041-First-Missing-Positive/solution.cpp) \| [Python](0041-First-Missing-Positive/solution.py) | 2026-10-08 |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](0042-Trapping-Rain-Water/solution.cpp) \| [Python](0042-Trapping-Rain-Water/solution.py) | 2026-10-08 |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [C++](0044-Wildcard-Matching/solution.cpp) \| [Python](0044-Wildcard-Matching/solution.py) | 2026-10-08 |
+| 51 | [N Queens](https://leetcode.com/problems/n-queens/) | [C++](51-N-Queens/solution.cpp) | 2026-10-31 |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](0301-Remove-Invalid-Parentheses/solution.cpp) | 2026-10-07 |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [C++](1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST/solution.cpp) | 2026-10-18 |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) | 2026-09-29 |
@@ -556,6 +558,7 @@
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0048-Rotate-Image/solution.cpp) \| [Python](0048-Rotate-Image/solution.py) | 2026-10-08 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0049-Group-Anagrams/solution.cpp) \| [Python](0049-Group-Anagrams/solution.py) | 2026-10-08 |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/pow(x, n)/) | ![Unrated](https://img.shields.io/badge/-Unrated-gray?style=flat-square) | [C++](0050-Pow(x, n)/solution.cpp) \| [Python](0050-Pow(x, n)/solution.py) | 2026-10-08 |
+| 51 | [N Queens](https://leetcode.com/problems/n-queens/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](51-N-Queens/solution.cpp) | 2026-10-31 |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0301-Remove-Invalid-Parentheses/solution.cpp) | 2026-10-07 |
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0678-Valid-Parenthesis-String/solution.cpp) | 2026-10-04 |
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0856-Score-of-Parentheses/solution.cpp) | 2026-10-05 |
