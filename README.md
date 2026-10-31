@@ -43,8 +43,8 @@
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
+| `#51` | [N Queens](https://leetcode.com/problems/n-queens/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0051-N-Queens/solution.cpp) |
 | `#3665` | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3665-Twisted-Mirror-Path-Count/solution.cpp) |
-| `#51` | [N Queens](https://leetcode.com/problems/n-queens/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](51-N-Queens/solution.cpp) |
 
 </details>
 
@@ -488,7 +488,7 @@
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](0041-First-Missing-Positive/solution.cpp) \| [Python](0041-First-Missing-Positive/solution.py) | 2026-10-08 |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](0042-Trapping-Rain-Water/solution.cpp) \| [Python](0042-Trapping-Rain-Water/solution.py) | 2026-10-08 |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [C++](0044-Wildcard-Matching/solution.cpp) \| [Python](0044-Wildcard-Matching/solution.py) | 2026-10-08 |
-| 51 | [N Queens](https://leetcode.com/problems/n-queens/) | [C++](51-N-Queens/solution.cpp) | 2026-10-31 |
+| 51 | [N Queens](https://leetcode.com/problems/n-queens/) | [C++](0051-N-Queens/solution.cpp) | 2026-10-31 |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](0301-Remove-Invalid-Parentheses/solution.cpp) | 2026-10-07 |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [C++](1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST/solution.cpp) | 2026-10-18 |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) | 2026-09-29 |
@@ -558,7 +558,7 @@
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0048-Rotate-Image/solution.cpp) \| [Python](0048-Rotate-Image/solution.py) | 2026-10-08 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0049-Group-Anagrams/solution.cpp) \| [Python](0049-Group-Anagrams/solution.py) | 2026-10-08 |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/pow(x, n)/) | ![Unrated](https://img.shields.io/badge/-Unrated-gray?style=flat-square) | [C++](0050-Pow(x, n)/solution.cpp) \| [Python](0050-Pow(x, n)/solution.py) | 2026-10-08 |
-| 51 | [N Queens](https://leetcode.com/problems/n-queens/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](51-N-Queens/solution.cpp) | 2026-10-31 |
+| 51 | [N Queens](https://leetcode.com/problems/n-queens/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0051-N-Queens/solution.cpp) | 2026-10-31 |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0301-Remove-Invalid-Parentheses/solution.cpp) | 2026-10-07 |
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0678-Valid-Parenthesis-String/solution.cpp) | 2026-10-04 |
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0856-Score-of-Parentheses/solution.cpp) | 2026-10-05 |
