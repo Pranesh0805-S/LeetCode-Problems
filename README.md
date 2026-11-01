@@ -16,21 +16,21 @@
   </a>
 </p>
 
-> **Milestone Target (84/100):**
-> <progress value="84" max="100" style="width: 100%; height: 16px;"></progress> `84% Completed`
+> **Milestone Target (85/100):**
+> <progress value="85" max="100" style="width: 100%; height: 16px;"></progress> `85% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (17)](#-easy-problems) • [🟡 Medium (46)](#-medium-problems) • [🔴 Hard (19)](#-hard-problems) | [🔷 C++ (84)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (17)](#-easy-problems) • [🟡 Medium (47)](#-medium-problems) • [🔴 Hard (19)](#-hard-problems) | [🔷 C++ (85)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
 | Category | Count | Status Badge |
 | :--- | :---: | :--- |
 | **Easy** | `17` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
-| **Medium** | `46` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
+| **Medium** | `47` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `19` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `84` | `⚡ Modern C++` |
+| **C++ Solutions** | `85` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-10-31) — 3 solved</b></summary>
+<summary><b>🔥 Today (2026-11-01) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#453` | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0453-Minimum-Moves-to-Equal-Array-Elements/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-10-31) — 3 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -50,7 +59,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-10-30) — 1 solved</b></summary>
+<summary><b>📌 2026-10-30 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -418,7 +427,7 @@
 
 ### 🟡 Medium Problems
 <details>
-<summary><b>View 🟡 Medium Problems (46)</b></summary>
+<summary><b>View 🟡 Medium Problems (47)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -450,6 +459,7 @@
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [C++](0047-Permutations-II/solution.cpp) \| [Python](0047-Permutations-II/solution.py) | 2026-10-08 |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [C++](0048-Rotate-Image/solution.cpp) \| [Python](0048-Rotate-Image/solution.py) | 2026-10-08 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](0049-Group-Anagrams/solution.cpp) \| [Python](0049-Group-Anagrams/solution.py) | 2026-10-08 |
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [C++](0453-Minimum-Moves-to-Equal-Array-Elements/solution.cpp) | 2026-11-01 |
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [C++](0678-Valid-Parenthesis-String/solution.cpp) | 2026-10-04 |
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [C++](0856-Score-of-Parentheses/solution.cpp) | 2026-10-05 |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [C++](0921-Minimum-Add-to-Make-Parentheses-Valid/solution.cpp) | 2026-10-08 |
@@ -563,6 +573,7 @@
 | 51 | [N Queens](https://leetcode.com/problems/n-queens/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0051-N-Queens/solution.cpp) | 2026-10-31 |
 | 52 | [N Queens II](https://leetcode.com/problems/n-queens-ii/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0052-N-Queens-II/solution.cpp) | 2026-10-31 |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0301-Remove-Invalid-Parentheses/solution.cpp) | 2026-10-07 |
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0453-Minimum-Moves-to-Equal-Array-Elements/solution.cpp) | 2026-11-01 |
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0678-Valid-Parenthesis-String/solution.cpp) | 2026-10-04 |
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0856-Score-of-Parentheses/solution.cpp) | 2026-10-05 |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0921-Minimum-Add-to-Make-Parentheses-Valid/solution.cpp) | 2026-10-08 |

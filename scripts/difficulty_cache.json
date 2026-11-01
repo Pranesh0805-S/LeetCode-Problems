@@ -80,5 +80,6 @@
   "shortest-path-with-at-most-k-consecutive-identical-characters": "Medium",
   "twisted-mirror-path-count": "Medium",
   "n-queens": "Hard",
-  "n-queens-ii": "Hard"
+  "n-queens-ii": "Hard",
+  "minimum-moves-to-equal-array-elements": "Medium"
 }
