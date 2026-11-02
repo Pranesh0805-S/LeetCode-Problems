@@ -81,5 +81,6 @@
   "twisted-mirror-path-count": "Medium",
   "n-queens": "Hard",
   "n-queens-ii": "Hard",
-  "minimum-moves-to-equal-array-elements": "Medium"
+  "minimum-moves-to-equal-array-elements": "Medium",
+  "minimum-moves-to-equal-array-elements-ii": "Medium"
 }
