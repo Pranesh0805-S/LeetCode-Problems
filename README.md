@@ -16,21 +16,21 @@
   </a>
 </p>
 
-> **Milestone Target (86/100):**
-> <progress value="86" max="100" style="width: 100%; height: 16px;"></progress> `86% Completed`
+> **Milestone Target (87/100):**
+> <progress value="87" max="100" style="width: 100%; height: 16px;"></progress> `87% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (17)](#-easy-problems) • [🟡 Medium (48)](#-medium-problems) • [🔴 Hard (19)](#-hard-problems) | [🔷 C++ (86)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (18)](#-easy-problems) • [🟡 Medium (48)](#-medium-problems) • [🔴 Hard (19)](#-hard-problems) | [🔷 C++ (87)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
 | Category | Count | Status Badge |
 | :--- | :---: | :--- |
-| **Easy** | `17` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
+| **Easy** | `18` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
 | **Medium** | `48` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `19` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `86` | `⚡ Modern C++` |
+| **C++ Solutions** | `87` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-11-02) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-11-03) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#3736` | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3736-Minimum-Moves-to-Equal-Array-Elements-III/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-11-02) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-11-01) — 1 solved</b></summary>
+<summary><b>📌 2026-11-01 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -408,7 +417,7 @@
 
 ### 🟢 Easy Problems
 <details>
-<summary><b>View 🟢 Easy Problems (17)</b></summary>
+<summary><b>View 🟢 Easy Problems (18)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -428,6 +437,7 @@
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [C++](2409-Count-Days-Spent-Together/solution.cpp) | 2026-10-24 |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [C++](2778-Sum-of-Squares-of-Special-Elements/solution.cpp) | 2026-10-11 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [C++](2913-Subarrays-Distinct-Element-Sum-of-Squares-I/solution.cpp) | 2026-10-15 |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [C++](3736-Minimum-Moves-to-Equal-Array-Elements-III/solution.cpp) | 2026-11-03 |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [C++](3963-Create-Grid-With-Exactly-One-Path/solution.cpp) | 2026-10-27 |
 
 </details>
@@ -609,6 +619,7 @@
 | 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3665-Twisted-Mirror-Path-Count/solution.cpp) | 2026-10-31 |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3723-Maximize-Sum-of-Squares-of-Digits/solution.cpp) | 2026-10-14 |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3727-Maximum-Alternating-Sum-of-Squares/solution.cpp) | 2026-10-13 |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3736-Minimum-Moves-to-Equal-Array-Elements-III/solution.cpp) | 2026-11-03 |
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3841-Palindromic-Path-Queries-in-a-Tree/solution.cpp) | 2026-10-29 |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3863-Minimum-Operations-to-Sort-a-String/solution.cpp) | 2026-10-21 |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3882-Minimum-XOR-Path-in-a-Grid/solution.cpp) | 2026-10-28 |
