@@ -83,5 +83,6 @@
   "n-queens-ii": "Hard",
   "minimum-moves-to-equal-array-elements": "Medium",
   "minimum-moves-to-equal-array-elements-ii": "Medium",
-  "minimum-moves-to-equal-array-elements-iii": "Easy"
+  "minimum-moves-to-equal-array-elements-iii": "Easy",
+  "minimum-operations-to-make-elements-within-k-subarrays-equal": "Hard"
 }
