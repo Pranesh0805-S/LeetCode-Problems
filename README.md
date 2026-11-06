@@ -16,21 +16,21 @@
   </a>
 </p>
 
-> **Milestone Target (89/100):**
-> <progress value="89" max="100" style="width: 100%; height: 16px;"></progress> `89% Completed`
+> **Milestone Target (90/100):**
+> <progress value="90" max="100" style="width: 100%; height: 16px;"></progress> `90% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (19)](#-easy-problems) • [🟡 Medium (48)](#-medium-problems) • [🔴 Hard (20)](#-hard-problems) | [🔷 C++ (89)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (19)](#-easy-problems) • [🟡 Medium (49)](#-medium-problems) • [🔴 Hard (20)](#-hard-problems) | [🔷 C++ (90)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
 | Category | Count | Status Badge |
 | :--- | :---: | :--- |
 | **Easy** | `19` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
-| **Medium** | `48` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
+| **Medium** | `49` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `20` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `89` | `⚡ Modern C++` |
+| **C++ Solutions** | `90` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-11-05) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-11-06) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#2747` | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2747-Count-Zero-Request-Servers/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-11-05) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-11-04) — 1 solved</b></summary>
+<summary><b>📌 2026-11-04 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -465,7 +474,7 @@
 
 ### 🟡 Medium Problems
 <details>
-<summary><b>View 🟡 Medium Problems (48)</b></summary>
+<summary><b>View 🟡 Medium Problems (49)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -507,6 +516,7 @@
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [C++](1254-Number-of-Closed-Islands/solution.cpp) | 2026-10-25 |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [C++](1541-Minimum-Insertions-to-Balance-a-Parentheses-String/solution.cpp) | 2026-10-09 |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [C++](2333-Minimum-Sum-of-Squared-Difference/solution.cpp) | 2026-10-10 |
+| 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | [C++](2747-Count-Zero-Request-Servers/solution.cpp) | 2026-11-06 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [C++](3551-Minimum-Swaps-to-Sort-by-Digit-Sum/solution.cpp) | 2026-10-17 |
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [C++](3619-Count-Islands-With-Total-Value-Divisible-by-K/solution.cpp) | 2026-10-26 |
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [C++](3644-Maximum-K-to-Sort-a-Permutation/solution.cpp) | 2026-10-23 |
@@ -630,6 +640,7 @@
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) | 2026-09-29 |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2333-Minimum-Sum-of-Squared-Difference/solution.cpp) | 2026-10-10 |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2409-Count-Days-Spent-Together/solution.cpp) | 2026-10-24 |
+| 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2747-Count-Zero-Request-Servers/solution.cpp) | 2026-11-06 |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2778-Sum-of-Squares-of-Special-Elements/solution.cpp) | 2026-10-11 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares/solution.cpp) | 2026-10-12 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2913-Subarrays-Distinct-Element-Sum-of-Squares-I/solution.cpp) | 2026-10-15 |
