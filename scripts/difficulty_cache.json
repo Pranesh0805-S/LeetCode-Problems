@@ -86,5 +86,6 @@
   "minimum-moves-to-equal-array-elements-iii": "Easy",
   "minimum-operations-to-make-elements-within-k-subarrays-equal": "Hard",
   "find-the-distance-value-between-two-arrays": "Easy",
-  "count-zero-request-servers": "Medium"
+  "count-zero-request-servers": "Medium",
+  "process-tasks-using-servers": "Medium"
 }
