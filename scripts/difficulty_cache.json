@@ -89,5 +89,6 @@
   "count-zero-request-servers": "Medium",
   "process-tasks-using-servers": "Medium",
   "count-servers-that-communicate": "Medium",
-  "find-servers-that-handled-most-number-of-requests": "Hard"
+  "find-servers-that-handled-most-number-of-requests": "Hard",
+  "climbing-stairs-ii": "Medium"
 }

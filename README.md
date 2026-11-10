@@ -16,21 +16,21 @@
   </a>
 </p>
 
-> **Milestone Target (93/100):**
-> <progress value="93" max="100" style="width: 100%; height: 16px;"></progress> `93% Completed`
+> **Milestone Target (94/100):**
+> <progress value="94" max="100" style="width: 100%; height: 16px;"></progress> `94% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (19)](#-easy-problems) • [🟡 Medium (51)](#-medium-problems) • [🔴 Hard (21)](#-hard-problems) | [🔷 C++ (93)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (19)](#-easy-problems) • [🟡 Medium (52)](#-medium-problems) • [🔴 Hard (21)](#-hard-problems) | [🔷 C++ (94)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
 | Category | Count | Status Badge |
 | :--- | :---: | :--- |
 | **Easy** | `19` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
-| **Medium** | `51` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
+| **Medium** | `52` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `21` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `93` | `⚡ Modern C++` |
+| **C++ Solutions** | `94` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-11-09) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-11-10) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#3693` | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3693-Climbing-Stairs-II/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-11-09) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-11-08) — 1 solved</b></summary>
+<summary><b>📌 2026-11-08 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -501,7 +510,7 @@
 
 ### 🟡 Medium Problems
 <details>
-<summary><b>View 🟡 Medium Problems (51)</b></summary>
+<summary><b>View 🟡 Medium Problems (52)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -550,6 +559,7 @@
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [C++](3619-Count-Islands-With-Total-Value-Divisible-by-K/solution.cpp) | 2026-10-26 |
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [C++](3644-Maximum-K-to-Sort-a-Permutation/solution.cpp) | 2026-10-23 |
 | 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | [C++](3665-Twisted-Mirror-Path-Count/solution.cpp) | 2026-10-31 |
+| 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | [C++](3693-Climbing-Stairs-II/solution.cpp) | 2026-11-10 |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [C++](3723-Maximize-Sum-of-Squares-of-Digits/solution.cpp) | 2026-10-14 |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [C++](3727-Maximum-Alternating-Sum-of-Squares/solution.cpp) | 2026-10-13 |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [C++](3863-Minimum-Operations-to-Sort-a-String/solution.cpp) | 2026-10-21 |
@@ -683,6 +693,7 @@
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3619-Count-Islands-With-Total-Value-Divisible-by-K/solution.cpp) | 2026-10-26 |
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3644-Maximum-K-to-Sort-a-Permutation/solution.cpp) | 2026-10-23 |
 | 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3665-Twisted-Mirror-Path-Count/solution.cpp) | 2026-10-31 |
+| 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3693-Climbing-Stairs-II/solution.cpp) | 2026-11-10 |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3723-Maximize-Sum-of-Squares-of-Digits/solution.cpp) | 2026-10-14 |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3727-Maximum-Alternating-Sum-of-Squares/solution.cpp) | 2026-10-13 |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3736-Minimum-Moves-to-Equal-Array-Elements-III/solution.cpp) | 2026-11-03 |
