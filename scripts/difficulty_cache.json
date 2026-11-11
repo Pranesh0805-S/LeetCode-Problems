@@ -90,5 +90,6 @@
   "process-tasks-using-servers": "Medium",
   "count-servers-that-communicate": "Medium",
   "find-servers-that-handled-most-number-of-requests": "Hard",
-  "climbing-stairs-ii": "Medium"
+  "climbing-stairs-ii": "Medium",
+  "minimum-cost-to-acquire-required-items": "Medium"
 }
