@@ -91,5 +91,6 @@
   "count-servers-that-communicate": "Medium",
   "find-servers-that-handled-most-number-of-requests": "Hard",
   "climbing-stairs-ii": "Medium",
-  "minimum-cost-to-acquire-required-items": "Medium"
+  "minimum-cost-to-acquire-required-items": "Medium",
+  "longest-strictly-increasing-or-strictly-decreasing-subarray": "Easy"
 }
