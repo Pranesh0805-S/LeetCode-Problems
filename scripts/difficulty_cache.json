@@ -92,5 +92,6 @@
   "find-servers-that-handled-most-number-of-requests": "Hard",
   "climbing-stairs-ii": "Medium",
   "minimum-cost-to-acquire-required-items": "Medium",
-  "longest-strictly-increasing-or-strictly-decreasing-subarray": "Easy"
+  "longest-strictly-increasing-or-strictly-decreasing-subarray": "Easy",
+  "count-non-decreasing-subarrays-after-k-operations": "Hard"
 }
