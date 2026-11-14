@@ -16,21 +16,21 @@
   </a>
 </p>
 
-> **Milestone Target (97/100):**
-> <progress value="97" max="100" style="width: 100%; height: 16px;"></progress> `97% Completed`
+> **Milestone Target (98/100):**
+> <progress value="98" max="100" style="width: 100%; height: 16px;"></progress> `98% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (20)](#-easy-problems) • [🟡 Medium (53)](#-medium-problems) • [🔴 Hard (22)](#-hard-problems) | [🔷 C++ (97)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (21)](#-easy-problems) • [🟡 Medium (53)](#-medium-problems) • [🔴 Hard (22)](#-hard-problems) | [🔷 C++ (98)](#-c-solutions) • [🟨 Python (50)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
 | Category | Count | Status Badge |
 | :--- | :---: | :--- |
-| **Easy** | `20` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
+| **Easy** | `21` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
 | **Medium** | `53` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `22` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `97` | `⚡ Modern C++` |
+| **C++ Solutions** | `98` | `⚡ Modern C++` |
 | **Python Solutions** | `50` | `🐍 Python 3` |
 | **Dual-Language** | `50` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-11-13) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-11-14) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#3364` | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3364-Minimum-Positive-Sum-Subarray/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-11-13) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-11-12) — 1 solved</b></summary>
+<summary><b>📌 2026-11-12 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -507,7 +516,7 @@
 
 ### 🟢 Easy Problems
 <details>
-<summary><b>View 🟢 Easy Problems (20)</b></summary>
+<summary><b>View 🟢 Easy Problems (21)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -529,6 +538,7 @@
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [C++](2778-Sum-of-Squares-of-Special-Elements/solution.cpp) | 2026-10-11 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [C++](2913-Subarrays-Distinct-Element-Sum-of-Squares-I/solution.cpp) | 2026-10-15 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [C++](3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray/solution.cpp) | 2026-11-12 |
+| 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [C++](3364-Minimum-Positive-Sum-Subarray/solution.cpp) | 2026-11-14 |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [C++](3736-Minimum-Moves-to-Equal-Array-Elements-III/solution.cpp) | 2026-11-03 |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [C++](3963-Create-Grid-With-Exactly-One-Path/solution.cpp) | 2026-10-27 |
 
@@ -719,6 +729,7 @@
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2913-Subarrays-Distinct-Element-Sum-of-Squares-I/solution.cpp) | 2026-10-15 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2916-Subarrays-Distinct-Element-Sum-of-Squares-II/solution.cpp) | 2026-10-16 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray/solution.cpp) | 2026-11-12 |
+| 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3364-Minimum-Positive-Sum-Subarray/solution.cpp) | 2026-11-14 |
 | 3420 | [Count Non Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3420-Count-Non-Decreasing-Subarrays-After-K-Operations/solution.cpp) | 2026-11-13 |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3505-Minimum-Operations-to-Make-Elements-Within-K-Subarrays-Equal/solution.cpp) | 2026-11-04 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3551-Minimum-Swaps-to-Sort-by-Digit-Sum/solution.cpp) | 2026-10-17 |
