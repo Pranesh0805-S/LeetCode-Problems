@@ -97,5 +97,6 @@
   "minimum-positive-sum-subarray": "Easy",
   "number-of-sub-arrays-with-odd-sum": "Medium",
   "maximum-subarray": "Medium",
-  "spiral-matrix": "Medium"
+  "spiral-matrix": "Medium",
+  "jump-game": "Medium"
 }
