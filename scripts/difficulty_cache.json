@@ -94,5 +94,6 @@
   "minimum-cost-to-acquire-required-items": "Medium",
   "longest-strictly-increasing-or-strictly-decreasing-subarray": "Easy",
   "count-non-decreasing-subarrays-after-k-operations": "Hard",
-  "minimum-positive-sum-subarray": "Easy"
+  "minimum-positive-sum-subarray": "Easy",
+  "number-of-sub-arrays-with-odd-sum": "Medium"
 }
