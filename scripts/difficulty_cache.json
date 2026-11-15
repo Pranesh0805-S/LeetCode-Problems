@@ -96,5 +96,6 @@
   "count-non-decreasing-subarrays-after-k-operations": "Hard",
   "minimum-positive-sum-subarray": "Easy",
   "number-of-sub-arrays-with-odd-sum": "Medium",
-  "maximum-subarray": "Medium"
+  "maximum-subarray": "Medium",
+  "spiral-matrix": "Medium"
 }
