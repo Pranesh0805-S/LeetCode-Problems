@@ -98,5 +98,6 @@
   "number-of-sub-arrays-with-odd-sum": "Medium",
   "maximum-subarray": "Medium",
   "spiral-matrix": "Medium",
-  "jump-game": "Medium"
+  "jump-game": "Medium",
+  "calculate-digit-sum-of-a-string": "Easy"
 }
