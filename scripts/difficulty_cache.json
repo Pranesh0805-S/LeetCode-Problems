@@ -99,5 +99,6 @@
   "maximum-subarray": "Medium",
   "spiral-matrix": "Medium",
   "jump-game": "Medium",
-  "calculate-digit-sum-of-a-string": "Easy"
+  "calculate-digit-sum-of-a-string": "Easy",
+  "minimum-changes-to-make-k-semi-palindromes": "Hard"
 }

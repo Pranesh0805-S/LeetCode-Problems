@@ -16,12 +16,12 @@
   </a>
 </p>
 
-> **Milestone Target (103/100):**
-> <progress value="103" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
+> **Milestone Target (104/100):**
+> <progress value="104" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (22)](#-easy-problems) • [🟡 Medium (57)](#-medium-problems) • [🔴 Hard (22)](#-hard-problems) | [🔷 C++ (103)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (22)](#-easy-problems) • [🟡 Medium (57)](#-medium-problems) • [🔴 Hard (23)](#-hard-problems) | [🔷 C++ (104)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
@@ -29,8 +29,8 @@
 | :--- | :---: | :--- |
 | **Easy** | `22` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
 | **Medium** | `57` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
-| **Hard** | `22` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `103` | `⚡ Modern C++` |
+| **Hard** | `23` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
+| **C++ Solutions** | `104` | `⚡ Modern C++` |
 | **Python Solutions** | `51` | `🐍 Python 3` |
 | **Dual-Language** | `51` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-11-16) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-11-17) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#2911` | [Minimum Changes to Make K Semi palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2911-Minimum-Changes-to-Make-K-Semi-palindromes/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-11-16) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-11-15) — 4 solved</b></summary>
+<summary><b>📌 2026-11-15 — 4 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -638,7 +647,7 @@
 
 ### 🔴 Hard Problems
 <details>
-<summary><b>View 🔴 Hard Problems (22)</b></summary>
+<summary><b>View 🔴 Hard Problems (23)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -659,6 +668,7 @@
 | 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [C++](1606-Find-Servers-That-Handled-Most-Number-of-Requests/solution.cpp) | 2026-11-09 |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) | 2026-09-29 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [C++](2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares/solution.cpp) | 2026-10-12 |
+| 2911 | [Minimum Changes to Make K Semi palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | [C++](2911-Minimum-Changes-to-Make-K-Semi-palindromes/solution.cpp) | 2026-11-17 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | [C++](2916-Subarrays-Distinct-Element-Sum-of-Squares-II/solution.cpp) | 2026-10-16 |
 | 3420 | [Count Non Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [C++](3420-Count-Non-Decreasing-Subarrays-After-K-Operations/solution.cpp) | 2026-11-13 |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [C++](3505-Minimum-Operations-to-Make-Elements-Within-K-Subarrays-Equal/solution.cpp) | 2026-11-04 |
@@ -757,6 +767,7 @@
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2747-Count-Zero-Request-Servers/solution.cpp) | 2026-11-06 |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2778-Sum-of-Squares-of-Special-Elements/solution.cpp) | 2026-10-11 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares/solution.cpp) | 2026-10-12 |
+| 2911 | [Minimum Changes to Make K Semi palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2911-Minimum-Changes-to-Make-K-Semi-palindromes/solution.cpp) | 2026-11-17 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2913-Subarrays-Distinct-Element-Sum-of-Squares-I/solution.cpp) | 2026-10-15 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2916-Subarrays-Distinct-Element-Sum-of-Squares-II/solution.cpp) | 2026-10-16 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray/solution.cpp) | 2026-11-12 |
