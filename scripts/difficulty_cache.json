@@ -100,5 +100,6 @@
   "spiral-matrix": "Medium",
   "jump-game": "Medium",
   "calculate-digit-sum-of-a-string": "Easy",
-  "minimum-changes-to-make-k-semi-palindromes": "Hard"
+  "minimum-changes-to-make-k-semi-palindromes": "Hard",
+  "minimum-number-of-changes-to-make-binary-string-beautiful": "Medium"
 }
