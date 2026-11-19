@@ -105,5 +105,6 @@
   "minimum-score-by-changing-two-elements": "Medium",
   "merge-intervals": "Medium",
   "insert-interval": "Medium",
-  "length-of-last-word": "Easy"
+  "length-of-last-word": "Easy",
+  "spiral-matrix-ii": "Medium"
 }
