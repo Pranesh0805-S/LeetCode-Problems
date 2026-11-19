@@ -106,5 +106,6 @@
   "merge-intervals": "Medium",
   "insert-interval": "Medium",
   "length-of-last-word": "Easy",
-  "spiral-matrix-ii": "Medium"
+  "spiral-matrix-ii": "Medium",
+  "permutation-sequence": "Hard"
 }
