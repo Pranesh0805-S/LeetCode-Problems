@@ -16,21 +16,21 @@
   </a>
 </p>
 
-> **Milestone Target (105/100):**
-> <progress value="105" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
+> **Milestone Target (106/100):**
+> <progress value="106" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (22)](#-easy-problems) • [🟡 Medium (58)](#-medium-problems) • [🔴 Hard (23)](#-hard-problems) | [🔷 C++ (105)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (22)](#-easy-problems) • [🟡 Medium (59)](#-medium-problems) • [🔴 Hard (23)](#-hard-problems) | [🔷 C++ (106)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
 | Category | Count | Status Badge |
 | :--- | :---: | :--- |
 | **Easy** | `22` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
-| **Medium** | `58` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
+| **Medium** | `59` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `23` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `105` | `⚡ Modern C++` |
+| **C++ Solutions** | `106` | `⚡ Modern C++` |
 | **Python Solutions** | `51` | `🐍 Python 3` |
 | **Dual-Language** | `51` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-11-18) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-11-19) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#2567` | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2567-Minimum-Score-by-Changing-Two-Elements/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-11-18) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-11-17) — 1 solved</b></summary>
+<summary><b>📌 2026-11-17 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -588,7 +597,7 @@
 
 ### 🟡 Medium Problems
 <details>
-<summary><b>View 🟡 Medium Problems (58)</b></summary>
+<summary><b>View 🟡 Medium Problems (59)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -636,6 +645,7 @@
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [C++](1541-Minimum-Insertions-to-Balance-a-Parentheses-String/solution.cpp) | 2026-10-09 |
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [C++](1882-Process-Tasks-Using-Servers/Solution.cpp) | 2026-11-07 |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [C++](2333-Minimum-Sum-of-Squared-Difference/solution.cpp) | 2026-10-10 |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [C++](2567-Minimum-Score-by-Changing-Two-Elements/solution.cpp) | 2026-11-19 |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | [C++](2747-Count-Zero-Request-Servers/solution.cpp) | 2026-11-06 |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [C++](2914-Minimum-Number-of-Changes-to-Make-Binary-String-Beautiful/solution.cpp) | 2026-11-18 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [C++](3551-Minimum-Swaps-to-Sort-by-Digit-Sum/solution.cpp) | 2026-10-17 |
@@ -774,6 +784,7 @@
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) | 2026-09-29 |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2333-Minimum-Sum-of-Squared-Difference/solution.cpp) | 2026-10-10 |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2409-Count-Days-Spent-Together/solution.cpp) | 2026-10-24 |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2567-Minimum-Score-by-Changing-Two-Elements/solution.cpp) | 2026-11-19 |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2747-Count-Zero-Request-Servers/solution.cpp) | 2026-11-06 |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2778-Sum-of-Squares-of-Special-Elements/solution.cpp) | 2026-10-11 |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares/solution.cpp) | 2026-10-12 |
