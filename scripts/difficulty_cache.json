@@ -104,5 +104,6 @@
   "minimum-number-of-changes-to-make-binary-string-beautiful": "Medium",
   "minimum-score-by-changing-two-elements": "Medium",
   "merge-intervals": "Medium",
-  "insert-interval": "Medium"
+  "insert-interval": "Medium",
+  "length-of-last-word": "Easy"
 }
