@@ -107,5 +107,6 @@
   "insert-interval": "Medium",
   "length-of-last-word": "Easy",
   "spiral-matrix-ii": "Medium",
-  "permutation-sequence": "Hard"
+  "permutation-sequence": "Hard",
+  "maximize-consecutive-elements-in-an-array-after-modification": "Hard"
 }
