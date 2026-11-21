@@ -108,5 +108,6 @@
   "length-of-last-word": "Easy",
   "spiral-matrix-ii": "Medium",
   "permutation-sequence": "Hard",
-  "maximize-consecutive-elements-in-an-array-after-modification": "Hard"
+  "maximize-consecutive-elements-in-an-array-after-modification": "Hard",
+  "find-subtree-sizes-after-changes": "Medium"
 }
