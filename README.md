@@ -16,12 +16,12 @@
   </a>
 </p>
 
-> **Milestone Target (113/100):**
-> <progress value="113" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
+> **Milestone Target (114/100):**
+> <progress value="114" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (23)](#-easy-problems) • [🟡 Medium (63)](#-medium-problems) • [🔴 Hard (25)](#-hard-problems) | [🔷 C++ (113)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (23)](#-easy-problems) • [🟡 Medium (63)](#-medium-problems) • [🔴 Hard (25)](#-hard-problems) | [🔷 C++ (114)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
@@ -30,7 +30,7 @@
 | **Easy** | `23` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
 | **Medium** | `63` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `25` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `113` | `⚡ Modern C++` |
+| **C++ Solutions** | `114` | `⚡ Modern C++` |
 | **Python Solutions** | `51` | `🐍 Python 3` |
 | **Dual-Language** | `51` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-11-21) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-11-22) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#2124` | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-a's-appears-before all-b's/) | ![Unrated](https://img.shields.io/badge/-Unrated-gray?style=flat-square) | [C++](2124-Check-if-All-A's-Appears-Before All-B's/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-11-21) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-11-20) — 1 solved</b></summary>
+<summary><b>📌 2026-11-20 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -61,12 +70,12 @@
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
-| `#2567` | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2567-Minimum-Score-by-Changing-Two-Elements/solution.cpp) |
-| `#60` | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0060-Permutation-Sequence/solution.cpp) |
 | `#59` | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0059-Spiral-Matrix-II/solution.cpp) |
-| `#56` | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0056-Merge-Intervals/solution.cpp) |
-| `#57` | [Insert Interval](https://leetcode.com/problems/insert-interval/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0057-Insert-Interval/solution.cpp) |
 | `#58` | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0058-Length-of-Last-Word/solution.cpp) |
+| `#57` | [Insert Interval](https://leetcode.com/problems/insert-interval/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0057-Insert-Interval/solution.cpp) |
+| `#60` | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0060-Permutation-Sequence/solution.cpp) |
+| `#56` | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0056-Merge-Intervals/solution.cpp) |
+| `#2567` | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2567-Minimum-Score-by-Changing-Two-Elements/solution.cpp) |
 
 </details>
 
@@ -102,10 +111,10 @@
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
-| `#53` | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0053-Maximum-Subarray/solution.cpp) |
 | `#55` | [Jump Game](https://leetcode.com/problems/jump-game/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0055-Jump-Game/solution.cpp) |
-| `#1524` | [Number of Sub arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1524-Number-of-Sub-arrays-With-Odd-Sum/solution.cpp) |
+| `#53` | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0053-Maximum-Subarray/solution.cpp) |
 | `#54` | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0054-Spiral-Matrix/solution.cpp) |
+| `#1524` | [Number of Sub arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1524-Number-of-Sub-arrays-With-Odd-Sum/solution.cpp) |
 
 </details>
 
@@ -240,9 +249,9 @@
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
-| `#51` | [N Queens](https://leetcode.com/problems/n-queens/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0051-N-Queens/solution.cpp) |
-| `#3665` | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3665-Twisted-Mirror-Path-Count/solution.cpp) |
 | `#52` | [N Queens II](https://leetcode.com/problems/n-queens-ii/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0052-N-Queens-II/solution.cpp) |
+| `#3665` | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3665-Twisted-Mirror-Path-Count/solution.cpp) |
+| `#51` | [N Queens](https://leetcode.com/problems/n-queens/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0051-N-Queens/solution.cpp) |
 
 </details>
 
@@ -449,25 +458,25 @@
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
-| `#38` | [Count and Say](https://leetcode.com/problems/count-and-say/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0038-Count-and-Say/solution.cpp) \| [Python](0038-Count-and-Say/solution.py) |
-| `#921` | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0921-Minimum-Add-to-Make-Parentheses-Valid/solution.cpp) |
-| `#46` | [Permutations](https://leetcode.com/problems/permutations/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0046-Permutations/solution.cpp) \| [Python](0046-Permutations/solution.py) |
-| `#39` | [Combination Sum](https://leetcode.com/problems/combination-sum/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0039-Combination-Sum/solution.cpp) \| [Python](0039-Combination-Sum/solution.py) |
 | `#49` | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0049-Group-Anagrams/solution.cpp) \| [Python](0049-Group-Anagrams/solution.py) |
-| `#47` | [Permutations II](https://leetcode.com/problems/permutations-ii/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0047-Permutations-II/solution.cpp) \| [Python](0047-Permutations-II/solution.py) |
-| `#50` | [Pow(x, n)](https://leetcode.com/problems/pow(x, n)/) | ![Unrated](https://img.shields.io/badge/-Unrated-gray?style=flat-square) | [C++](0050-Pow(x, n)/solution.cpp) \| [Python](0050-Pow(x, n)/solution.py) |
-| `#48` | [Rotate Image](https://leetcode.com/problems/rotate-image/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0048-Rotate-Image/solution.cpp) \| [Python](0048-Rotate-Image/solution.py) |
-| `#41` | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0041-First-Missing-Positive/solution.cpp) \| [Python](0041-First-Missing-Positive/solution.py) |
-| `#37` | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0037-Sudoku-Solver/solution.cpp) \| [Python](0037-Sudoku-Solver/solution.py) |
-| `#40` | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0040-Combination-Sum-II/solution.cpp) \| [Python](0040-Combination-Sum-II/solution.py) |
-| `#45` | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0045-Jump-Game-II/solution.cpp) \| [Python](0045-Jump-Game-II/solution.py) |
-| `#35` | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0035-Search-Insert-Position/solution.cpp) \| [Python](0035-Search-Insert-Position/solution.py) |
+| `#38` | [Count and Say](https://leetcode.com/problems/count-and-say/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0038-Count-and-Say/solution.cpp) \| [Python](0038-Count-and-Say/solution.py) |
 | `#34` | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/solution.cpp) \| [Python](0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/solution.py) |
-| `#44` | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0044-Wildcard-Matching/solution.cpp) \| [Python](0044-Wildcard-Matching/solution.py) |
-| `#1021` | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](1021-Remove-Outermost-Parentheses/solution.cpp) |
-| `#43` | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0043-Multiply-Strings/solution.cpp) \| [Python](0043-Multiply-Strings/solution.py) |
-| `#42` | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0042-Trapping-Rain-Water/solution.cpp) \| [Python](0042-Trapping-Rain-Water/solution.py) |
+| `#39` | [Combination Sum](https://leetcode.com/problems/combination-sum/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0039-Combination-Sum/solution.cpp) \| [Python](0039-Combination-Sum/solution.py) |
+| `#47` | [Permutations II](https://leetcode.com/problems/permutations-ii/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0047-Permutations-II/solution.cpp) \| [Python](0047-Permutations-II/solution.py) |
 | `#36` | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0036-Valid-Sudoku/solution.cpp) \| [Python](0036-Valid-Sudoku/solution.py) |
+| `#42` | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0042-Trapping-Rain-Water/solution.cpp) \| [Python](0042-Trapping-Rain-Water/solution.py) |
+| `#44` | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0044-Wildcard-Matching/solution.cpp) \| [Python](0044-Wildcard-Matching/solution.py) |
+| `#35` | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0035-Search-Insert-Position/solution.cpp) \| [Python](0035-Search-Insert-Position/solution.py) |
+| `#43` | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0043-Multiply-Strings/solution.cpp) \| [Python](0043-Multiply-Strings/solution.py) |
+| `#48` | [Rotate Image](https://leetcode.com/problems/rotate-image/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0048-Rotate-Image/solution.cpp) \| [Python](0048-Rotate-Image/solution.py) |
+| `#40` | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0040-Combination-Sum-II/solution.cpp) \| [Python](0040-Combination-Sum-II/solution.py) |
+| `#41` | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0041-First-Missing-Positive/solution.cpp) \| [Python](0041-First-Missing-Positive/solution.py) |
+| `#1021` | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](1021-Remove-Outermost-Parentheses/solution.cpp) |
+| `#45` | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0045-Jump-Game-II/solution.cpp) \| [Python](0045-Jump-Game-II/solution.py) |
+| `#921` | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0921-Minimum-Add-to-Make-Parentheses-Valid/solution.cpp) |
+| `#37` | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0037-Sudoku-Solver/solution.cpp) \| [Python](0037-Sudoku-Solver/solution.py) |
+| `#46` | [Permutations](https://leetcode.com/problems/permutations/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0046-Permutations/solution.cpp) \| [Python](0046-Permutations/solution.py) |
+| `#50` | [Pow(x, n)](https://leetcode.com/problems/pow(x, n)/) | ![Unrated](https://img.shields.io/badge/-Unrated-gray?style=flat-square) | [C++](0050-Pow(x, n)/solution.cpp) \| [Python](0050-Pow(x, n)/solution.py) |
 
 </details>
 
@@ -476,12 +485,12 @@
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
-| `#29` | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0029-Divide-Two-Integers/solution.cpp) \| [Python](0029-Divide-Two-Integers/solution.py) |
-| `#33` | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0033-Search-in-Rotated-Sorted-Array/solution.cpp) \| [Python](0033-Search-in-Rotated-Sorted-Array/solution.py) |
 | `#30` | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0030-Substring-with-Concatenation-of-All-Words/solution.cpp) \| [Python](0030-Substring-with-Concatenation-of-All-Words/solution.py) |
 | `#31` | [Next Permutation](https://leetcode.com/problems/next-permutation/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0031-Next-Permutation/solution.cpp) \| [Python](0031-Next-Permutation/solution.py) |
-| `#301` | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0301-Remove-Invalid-Parentheses/solution.cpp) |
+| `#33` | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0033-Search-in-Rotated-Sorted-Array/solution.cpp) \| [Python](0033-Search-in-Rotated-Sorted-Array/solution.py) |
 | `#28` | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0028-Find-the-Index-of-the-First-Occurrence-in-a-String/solution.cpp) \| [Python](0028-Find-the-Index-of-the-First-Occurrence-in-a-String/solution.py) |
+| `#29` | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0029-Divide-Two-Integers/solution.cpp) \| [Python](0029-Divide-Two-Integers/solution.py) |
+| `#301` | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0301-Remove-Invalid-Parentheses/solution.cpp) |
 
 </details>
 
@@ -517,8 +526,8 @@
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
-| `#27` | [Remove Element](https://leetcode.com/problems/remove-element/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0027-Remove-Element/solution.cpp) \| [Python](0027-Remove-Element/solution.py) |
 | `#26` | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0026-Remove-Duplicates-from-Sorted-Array/solution.cpp) \| [Python](0026-Remove-Duplicates-from-Sorted-Array/solution.py) |
+| `#27` | [Remove Element](https://leetcode.com/problems/remove-element/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0027-Remove-Element/solution.cpp) \| [Python](0027-Remove-Element/solution.py) |
 
 </details>
 
@@ -527,15 +536,15 @@
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
-| `#19` | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0019-Remove-Nth-Node-From-End-of-List/solution.cpp) \| [Python](0019-Remove-Nth-Node-From-End-of-List/solution.py) |
-| `#22` | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0022-Generate-Parentheses/solution.cpp) \| [Python](0022-Generate-Parentheses/solution.py) |
-| `#25` | [Reverse Nodes in k Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0025-Reverse-Nodes-in-k-Group/solution.cpp) \| [Python](0025-Reverse-Nodes-in-k-Group/solution.py) |
 | `#1111` | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/solution.cpp) |
-| `#20` | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0020-Valid-Parentheses/solution.cpp) \| [Python](0020-Valid-Parentheses/solution.py) |
-| `#18` | [4Sum](https://leetcode.com/problems/4sum/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0018-4Sum/solution.cpp) \| [Python](0018-4Sum/solution.py) |
-| `#21` | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0021-Merge-Two-Sorted-Lists/solution.cpp) \| [Python](0021-Merge-Two-Sorted-Lists/solution.py) |
-| `#24` | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0024-Swap-Nodes-in-Pairs/solution.cpp) \| [Python](0024-Swap-Nodes-in-Pairs/solution.py) |
+| `#25` | [Reverse Nodes in k Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0025-Reverse-Nodes-in-k-Group/solution.cpp) \| [Python](0025-Reverse-Nodes-in-k-Group/solution.py) |
 | `#23` | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0023-Merge-k-Sorted-Lists/solution.cpp) \| [Python](0023-Merge-k-Sorted-Lists/solution.py) |
+| `#24` | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0024-Swap-Nodes-in-Pairs/solution.cpp) \| [Python](0024-Swap-Nodes-in-Pairs/solution.py) |
+| `#22` | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0022-Generate-Parentheses/solution.cpp) \| [Python](0022-Generate-Parentheses/solution.py) |
+| `#18` | [4Sum](https://leetcode.com/problems/4sum/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0018-4Sum/solution.cpp) \| [Python](0018-4Sum/solution.py) |
+| `#20` | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0020-Valid-Parentheses/solution.cpp) \| [Python](0020-Valid-Parentheses/solution.py) |
+| `#21` | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0021-Merge-Two-Sorted-Lists/solution.cpp) \| [Python](0021-Merge-Two-Sorted-Lists/solution.py) |
+| `#19` | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0019-Remove-Nth-Node-From-End-of-List/solution.cpp) \| [Python](0019-Remove-Nth-Node-From-End-of-List/solution.py) |
 
 </details>
 
@@ -562,23 +571,23 @@
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
-| `#14` | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0014-Longest-Common-Prefix/solution.cpp) \| [Python](0014-Longest-Common-Prefix/solution.py) |
-| `#10` | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0010-Regular-Expression-Matching/solution.cpp) \| [Python](0010-Regular-Expression-Matching/solution.py) |
-| `#2` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0002-Add-Two-Numbers/solution.cpp) \| [Python](0002-Add-Two-Numbers/solution.py) |
-| `#5` | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0005-Longest-Palindromic-Substring/solution.cpp) \| [Python](0005-Longest-Palindromic-Substring/solution.py) |
-| `#11` | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0011-Container-With-Most-Water/solution.cpp) \| [Python](0011-Container-With-Most-Water/solution.py) |
-| `#1190` | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/solution.cpp) |
-| `#17` | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0017-Letter-Combinations-of-a-Phone-Number/solution.cpp) \| [Python](0017-Letter-Combinations-of-a-Phone-Number/solution.py) |
-| `#9` | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0009-Palindrome-Number/solution.cpp) \| [Python](0009-Palindrome-Number/solution.py) |
-| `#6` | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0006-Zigzag-Conversion/solution.cpp) \| [Python](0006-Zigzag-Conversion/solution.py) |
-| `#8` | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-(atoi)/) | ![Unrated](https://img.shields.io/badge/-Unrated-gray?style=flat-square) | [C++](0008-String-to-Integer-(atoi)/solution.cpp) \| [Python](0008-String-to-Integer-(atoi)/solution.py) |
-| `#4` | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0004-Median-of-Two-Sorted-Arrays/solution.cpp) \| [Python](0004-Median-of-Two-Sorted-Arrays/solution.py) |
-| `#15` | [3Sum](https://leetcode.com/problems/3sum/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0015-3Sum/solution.cpp) \| [Python](0015-3Sum/solution.py) |
 | `#13` | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0013-Roman-to-Integer/solution.cpp) \| [Python](0013-Roman-to-Integer/solution.py) |
 | `#12` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0012-Integer-to-Roman/solution.cpp) \| [Python](0012-Integer-to-Roman/solution.py) |
-| `#16` | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0016-3Sum-Closest/solution.cpp) \| [Python](0016-3Sum-Closest/solution.py) |
-| `#1` | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0001-Two-Sum/solution.cpp) \| [Python](0001-Two-Sum/solution.py) |
+| `#1190` | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/solution.cpp) |
+| `#4` | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0004-Median-of-Two-Sorted-Arrays/solution.cpp) \| [Python](0004-Median-of-Two-Sorted-Arrays/solution.py) |
+| `#11` | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0011-Container-With-Most-Water/solution.cpp) \| [Python](0011-Container-With-Most-Water/solution.py) |
+| `#14` | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0014-Longest-Common-Prefix/solution.cpp) \| [Python](0014-Longest-Common-Prefix/solution.py) |
 | `#3` | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0003-Longest-Substring-Without-Repeating-Characters/solution.cpp) \| [Python](0003-Longest-Substring-Without-Repeating-Characters/solution.py) |
+| `#9` | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0009-Palindrome-Number/solution.cpp) \| [Python](0009-Palindrome-Number/solution.py) |
+| `#8` | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-(atoi)/) | ![Unrated](https://img.shields.io/badge/-Unrated-gray?style=flat-square) | [C++](0008-String-to-Integer-(atoi)/solution.cpp) \| [Python](0008-String-to-Integer-(atoi)/solution.py) |
+| `#15` | [3Sum](https://leetcode.com/problems/3sum/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0015-3Sum/solution.cpp) \| [Python](0015-3Sum/solution.py) |
+| `#17` | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0017-Letter-Combinations-of-a-Phone-Number/solution.cpp) \| [Python](0017-Letter-Combinations-of-a-Phone-Number/solution.py) |
+| `#10` | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](0010-Regular-Expression-Matching/solution.cpp) \| [Python](0010-Regular-Expression-Matching/solution.py) |
+| `#16` | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0016-3Sum-Closest/solution.cpp) \| [Python](0016-3Sum-Closest/solution.py) |
+| `#6` | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0006-Zigzag-Conversion/solution.cpp) \| [Python](0006-Zigzag-Conversion/solution.py) |
+| `#2` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0002-Add-Two-Numbers/solution.cpp) \| [Python](0002-Add-Two-Numbers/solution.py) |
+| `#5` | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0005-Longest-Palindromic-Substring/solution.cpp) \| [Python](0005-Longest-Palindromic-Substring/solution.py) |
+| `#1` | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](0001-Two-Sum/solution.cpp) \| [Python](0001-Two-Sum/solution.py) |
 | `#7` | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](0007-Reverse-Integer/solution.cpp) \| [Python](0007-Reverse-Integer/solution.py) |
 
 </details>
@@ -815,6 +824,7 @@
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](1614-Maximum-Nesting-Depth-of-the-Parentheses/solution.cpp) | 2026-09-28 |
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](1882-Process-Tasks-Using-Servers/Solution.cpp) | 2026-11-07 |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2089-Find-Target-Indices-After-Sorting-Array/solution.cpp) | 2026-10-19 |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-a's-appears-before all-b's/) | ![Unrated](https://img.shields.io/badge/-Unrated-gray?style=flat-square) | [C++](2124-Check-if-All-A's-Appears-Before All-B's/solution.cpp) | 2026-11-22 |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](2243-Calculate-Digit-Sum-of-a-String/solution.cpp) \| [Python](2243-Calculate-Digit-Sum-of-a-String/solution.py) | 2026-11-16 |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](2267-Check-if-There-Is-a-Valid-Parentheses-String-Path/solution.cpp) | 2026-09-29 |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](2333-Minimum-Sum-of-Squared-Difference/solution.cpp) | 2026-10-10 |
