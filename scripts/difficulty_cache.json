@@ -110,5 +110,6 @@
   "permutation-sequence": "Hard",
   "maximize-consecutive-elements-in-an-array-after-modification": "Hard",
   "find-subtree-sizes-after-changes": "Medium",
-  "product-of-the-last-k-numbers": "Medium"
+  "product-of-the-last-k-numbers": "Medium",
+  "maximum-subarray-with-equal-products": "Easy"
 }
