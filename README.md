@@ -16,12 +16,12 @@
   </a>
 </p>
 
-> **Milestone Target (116/100):**
-> <progress value="116" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
+> **Milestone Target (117/100):**
+> <progress value="117" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (24)](#-easy-problems) • [🟡 Medium (64)](#-medium-problems) • [🔴 Hard (25)](#-hard-problems) | [🔷 C++ (116)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (24)](#-easy-problems) • [🟡 Medium (64)](#-medium-problems) • [🔴 Hard (26)](#-hard-problems) | [🔷 C++ (117)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
@@ -29,8 +29,8 @@
 | :--- | :---: | :--- |
 | **Easy** | `24` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
 | **Medium** | `64` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
-| **Hard** | `25` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `116` | `⚡ Modern C++` |
+| **Hard** | `26` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
+| **C++ Solutions** | `117` | `⚡ Modern C++` |
 | **Python Solutions** | `51` | `🐍 Python 3` |
 | **Dual-Language** | `51` | `🔄 Both Implemented` |
 
@@ -39,11 +39,12 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-11-25) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-11-25) — 2 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
 | `#3411` | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3411-Maximum-Subarray-With-Equal-Products/solution.cpp) |
+| `#3934` | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3934-Smallest-Unique-Subarray/solution.cpp) |
 
 </details>
 
@@ -724,7 +725,7 @@
 
 ### 🔴 Hard Problems
 <details>
-<summary><b>View 🔴 Hard Problems (25)</b></summary>
+<summary><b>View 🔴 Hard Problems (26)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -753,6 +754,7 @@
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [C++](3505-Minimum-Operations-to-Make-Elements-Within-K-Subarrays-Equal/solution.cpp) | 2026-11-04 |
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [C++](3841-Palindromic-Path-Queries-in-a-Tree/solution.cpp) | 2026-10-29 |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | [C++](3886-Sum-of-Sortable-Integers/solution.cpp) | 2026-10-20 |
+| 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [C++](3934-Smallest-Unique-Subarray/solution.cpp) | 2026-11-25 |
 
 </details>
 
@@ -878,6 +880,7 @@
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3863-Minimum-Operations-to-Sort-a-String/solution.cpp) | 2026-10-21 |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3882-Minimum-XOR-Path-in-a-Grid/solution.cpp) | 2026-10-28 |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3886-Sum-of-Sortable-Integers/solution.cpp) | 2026-10-20 |
+| 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3934-Smallest-Unique-Subarray/solution.cpp) | 2026-11-25 |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3942-Minimum-Operations-to-Sort-a-Permutation/solution.cpp) | 2026-10-22 |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3963-Create-Grid-With-Exactly-One-Path/solution.cpp) | 2026-10-27 |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3970-Shortest-Path-With-At-Most-K-Consecutive-Identical-Characters/solution.cpp) | 2026-10-30 |
