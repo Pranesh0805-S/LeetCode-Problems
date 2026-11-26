@@ -16,21 +16,21 @@
   </a>
 </p>
 
-> **Milestone Target (117/100):**
-> <progress value="117" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
+> **Milestone Target (118/100):**
+> <progress value="118" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (24)](#-easy-problems) • [🟡 Medium (64)](#-medium-problems) • [🔴 Hard (26)](#-hard-problems) | [🔷 C++ (117)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (25)](#-easy-problems) • [🟡 Medium (64)](#-medium-problems) • [🔴 Hard (26)](#-hard-problems) | [🔷 C++ (118)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
 | Category | Count | Status Badge |
 | :--- | :---: | :--- |
-| **Easy** | `24` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
+| **Easy** | `25` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
 | **Medium** | `64` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `26` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `117` | `⚡ Modern C++` |
+| **C++ Solutions** | `118` | `⚡ Modern C++` |
 | **Python Solutions** | `51` | `🐍 Python 3` |
 | **Dual-Language** | `51` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-11-25) — 2 solved</b></summary>
+<summary><b>🔥 Today (2026-11-26) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#3360` | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3360-Stone-Removal-Game/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-11-25) — 2 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -49,7 +58,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-11-24) — 1 solved</b></summary>
+<summary><b>📌 2026-11-24 — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -615,7 +624,7 @@
 
 ### 🟢 Easy Problems
 <details>
-<summary><b>View 🟢 Easy Problems (24)</b></summary>
+<summary><b>View 🟢 Easy Problems (25)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -639,6 +648,7 @@
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [C++](2778-Sum-of-Squares-of-Special-Elements/solution.cpp) | 2026-10-11 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [C++](2913-Subarrays-Distinct-Element-Sum-of-Squares-I/solution.cpp) | 2026-10-15 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [C++](3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray/solution.cpp) | 2026-11-12 |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | [C++](3360-Stone-Removal-Game/solution.cpp) | 2026-11-26 |
 | 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [C++](3364-Minimum-Positive-Sum-Subarray/solution.cpp) | 2026-11-14 |
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [C++](3411-Maximum-Subarray-With-Equal-Products/solution.cpp) | 2026-11-25 |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [C++](3736-Minimum-Moves-to-Equal-Array-Elements-III/solution.cpp) | 2026-11-03 |
@@ -863,6 +873,7 @@
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3041-Maximize-Consecutive-Elements-in-an-Array-After-Modification/solution.cpp) | 2026-11-20 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray/solution.cpp) | 2026-11-12 |
 | 3331 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3331-Find-Subtree-Sizes-After-Changes/solution.cpp) | 2026-11-21 |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3360-Stone-Removal-Game/solution.cpp) | 2026-11-26 |
 | 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3364-Minimum-Positive-Sum-Subarray/solution.cpp) | 2026-11-14 |
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3411-Maximum-Subarray-With-Equal-Products/solution.cpp) | 2026-11-25 |
 | 3420 | [Count Non Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3420-Count-Non-Decreasing-Subarrays-After-K-Operations/solution.cpp) | 2026-11-13 |
