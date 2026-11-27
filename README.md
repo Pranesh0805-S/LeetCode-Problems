@@ -16,21 +16,21 @@
   </a>
 </p>
 
-> **Milestone Target (118/100):**
-> <progress value="118" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
+> **Milestone Target (119/100):**
+> <progress value="119" max="100" style="width: 100%; height: 16px;"></progress> `100% Completed`
 
 | 🎯 Difficulty Jump | ⚡ Language Views | 📅 Activity & Full Index |
 | :---: | :---: | :---: |
-| [🟢 Easy (25)](#-easy-problems) • [🟡 Medium (64)](#-medium-problems) • [🔴 Hard (26)](#-hard-problems) | [🔷 C++ (118)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
+| [🟢 Easy (25)](#-easy-problems) • [🟡 Medium (65)](#-medium-problems) • [🔴 Hard (26)](#-hard-problems) | [🔷 C++ (119)](#-c-solutions) • [🟨 Python (51)](#-python-solutions) | [🗓️ Activity Log](#-daily-activity-log) • [📖 Full Index](#-all-solutions-index) |
 
 ### 📊 Breakdown
 
 | Category | Count | Status Badge |
 | :--- | :---: | :--- |
 | **Easy** | `25` | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) |
-| **Medium** | `64` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
+| **Medium** | `65` | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) |
 | **Hard** | `26` | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) |
-| **C++ Solutions** | `118` | `⚡ Modern C++` |
+| **C++ Solutions** | `119` | `⚡ Modern C++` |
 | **Python Solutions** | `51` | `🐍 Python 3` |
 | **Dual-Language** | `51` | `🔄 Both Implemented` |
 
@@ -39,7 +39,16 @@
 ### 📅 Daily Activity Log
 
 <details open>
-<summary><b>🔥 Today (2026-11-26) — 1 solved</b></summary>
+<summary><b>🔥 Today (2026-11-27) — 1 solved</b></summary>
+
+| Problem ID | Name | Difficulty | Solution Link |
+| :---: | :--- | :---: | :---: |
+| `#3946` | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3946-Maximum-Number-of-Items-From-Sale-I/solution.cpp) |
+
+</details>
+
+<details>
+<summary><b>⚡ Yesterday (2026-11-26) — 1 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Yesterday (2026-11-25) — 2 solved</b></summary>
+<summary><b>📌 2026-11-25 — 2 solved</b></summary>
 
 | Problem ID | Name | Difficulty | Solution Link |
 | :---: | :--- | :---: | :---: |
@@ -660,7 +669,7 @@
 
 ### 🟡 Medium Problems
 <details>
-<summary><b>View 🟡 Medium Problems (64)</b></summary>
+<summary><b>View 🟡 Medium Problems (65)</b></summary>
 
 | # | Title | Language Solutions | Solved Date |
 | :---: | :--- | :---: | :---: |
@@ -727,6 +736,7 @@
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [C++](3863-Minimum-Operations-to-Sort-a-String/solution.cpp) | 2026-10-21 |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [C++](3882-Minimum-XOR-Path-in-a-Grid/solution.cpp) | 2026-10-28 |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [C++](3942-Minimum-Operations-to-Sort-a-Permutation/solution.cpp) | 2026-10-22 |
+| 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | [C++](3946-Maximum-Number-of-Items-From-Sale-I/solution.cpp) | 2026-11-27 |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [C++](3970-Shortest-Path-With-At-Most-K-Consecutive-Identical-Characters/solution.cpp) | 2026-10-30 |
 
 </details>
@@ -893,6 +903,7 @@
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3886-Sum-of-Sortable-Integers/solution.cpp) | 2026-10-20 |
 | 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | ![Hard](https://img.shields.io/badge/-Hard-ff375f?style=flat-square) | [C++](3934-Smallest-Unique-Subarray/solution.cpp) | 2026-11-25 |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3942-Minimum-Operations-to-Sort-a-Permutation/solution.cpp) | 2026-10-22 |
+| 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3946-Maximum-Number-of-Items-From-Sale-I/solution.cpp) | 2026-11-27 |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | ![Easy](https://img.shields.io/badge/-Easy-00b8a3?style=flat-square) | [C++](3963-Create-Grid-With-Exactly-One-Path/solution.cpp) | 2026-10-27 |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | ![Medium](https://img.shields.io/badge/-Medium-ffc01e?style=flat-square) | [C++](3970-Shortest-Path-With-At-Most-K-Consecutive-Identical-Characters/solution.cpp) | 2026-10-30 |
 

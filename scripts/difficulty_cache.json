@@ -113,5 +113,6 @@
   "product-of-the-last-k-numbers": "Medium",
   "maximum-subarray-with-equal-products": "Easy",
   "smallest-unique-subarray": "Hard",
-  "stone-removal-game": "Easy"
+  "stone-removal-game": "Easy",
+  "maximum-number-of-items-from-sale-i": "Medium"
 }
